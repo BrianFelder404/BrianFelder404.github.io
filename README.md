@@ -4,10 +4,7 @@ GitHub Account
 GitHub Lab Assignment
 Clone repository and submit summary
 
-#About Me
-##My Interests
-	-[Hobbies] 
-	Gaming
+# Gaming
 	Hanging with friends
 	Going to the movies
 ##Websites I Recommend
